@@ -1,0 +1,1 @@
+The rectangular window is not as obvious as the Hamming window in distinguishing frequency peaks, and the higher the frequency, the worse the distinguishing degree of the rectangular window. The Hamming window clearly indicates the peak frequency, which is helpful for further observation.
